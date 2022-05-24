@@ -1,2 +1,2 @@
 # dicegame
-by angela yu
+
